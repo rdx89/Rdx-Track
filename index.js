@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://rdx-track-1.yrylyr-yr.repl.co";
 //TOGGLE for Shorters
 var use1pt=false;
 
